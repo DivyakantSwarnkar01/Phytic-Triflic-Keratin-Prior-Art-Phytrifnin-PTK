@@ -14,7 +14,7 @@
 
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![Prior Art](https://img.shields.io/badge/Status-Prior_Art_Established-green)](https://zenodo.org)
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.XXXXXXX-blue)](https://zenodo.org)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19907279-blue)](https://zenodo.org)
 
 ---
 
@@ -180,7 +180,7 @@ This disclosure is simultaneously published at:
 
 | Platform | Link | Purpose |
 |---|---|---|
-| **Zenodo** | DOI: 10.5281/zenodo.XXXXXXX | Academic DOI + CERN archive |
+| **Zenodo** | DOI: 10.5281/zenodo.19907279 | Academic DOI + CERN archive |
 | **Internet Archive** | [archive.org/details/PTK-prior-art](https://archive.org/details/phytic-acid-triflic-acid-keratin-ptk) | Permanent — never deletable |
 | **OSF** | osf.io/XXXXX | Open Science Framework |
 | **GitHub** | This repository | Developer community record |
@@ -195,7 +195,7 @@ If you build upon this concept, the author requests (but does not legally requir
 [Divyakant Swarnkar], "Phytic Acid–Triflic Acid–Keratin (PTK) Superionic 
 Composite: Defensive Prior Art Disclosure for a Low Dead-Weight 
 Nafion Alternative," GitHub & Zenodo, April 30, 2026.
-DOI: 10.5281/zenodo.XXXXXXX
+DOI: 10.5281/zenodo.19907279
 ```
 
 ---
