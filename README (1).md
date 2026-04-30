@@ -141,7 +141,7 @@ A thorough literature search conducted on April 30, 2026 confirmed:
 The author hereby irrevocably dedicates this entire concept
 to the public domain under CC0 1.0 Universal.
 
-To the extent possible under law, [Your Name] has waived 
+To the extent possible under law, Divyakant Swarnkar has waived 
 all copyright and related or neighboring rights to this work.
 
 Anyone worldwide may:
