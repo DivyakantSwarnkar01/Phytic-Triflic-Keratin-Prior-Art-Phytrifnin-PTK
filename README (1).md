@@ -12,8 +12,8 @@
 **Status:** Independent Researcher  
 **License:** CC0 1.0 Universal — No Rights Reserved  
 
-[![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)  
-[![Prior Art](https://img.shields.io/badge/Status-Prior_Art_Established-green)](https://zenodo.org)  
+[![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![Prior Art](https://img.shields.io/badge/Status-Prior_Art_Established-green)](https://zenodo.org)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19907279-blue)](https://zenodo.org)
 
 ---
@@ -38,54 +38,23 @@ A three-component superionic composite system comprising:
 | **Triflic Acid** | Trifluoromethanesulfonic acid, CF₃SO₃H | Superacid proton source, triflate mobile carrier, hydrophobic channel former |
 | **Keratin** | Structural protein (hair/wool/feathers) | Multi-functional ionic scaffold — near-zero dead weight |
 
----
+### The Core Innovation
 
-## 🧠 Core Innovation + Extended Framework
+Conventional Nafion membranes (the global standard for fuel cells) suffer from **~95% dead weight** — their fluorocarbon backbone contributes nothing to ionic conduction.
 
-### Original PTK Insight
-
-Conventional Nafion membranes suffer from **~95% dead weight** — fluorocarbon backbone does not participate in conduction.
+This PTK system solves that:
 
 ```
 NAFION:
 [====long fluorocarbon chain====]–SO₃H
- ↑ ~95% inactive
+ ↑ ~95% of mass does nothing useful
 
 PTK SYSTEM:
 [Keratin]–[Phytate]–[Triflate]–[Keratin]
     ↑           ↑          ↑        ↑
   Active     Active     Active   Active
+  ~75-80% of every atom contributes
 ```
-
----
-
-### 🔗 Extended Multi-Acid Superionic Framework (NEW ADDITION)
-
-The PTK system is a **specific instance of a broader universal design principle**:
-
-> **Maximize proton-active density by combining multiple acid systems with complementary roles.**
-
-#### Multi-Acid Architecture Includes:
-
-| Acid Type | Functional Group | Role |
-|---|---|---|
-| **Phosphonic / Phosphate** | –PO(OH)₂ / IP6 | Strong proton donors, crosslinking, thermal stability |
-| **Sulfonic** | –SO₃H | High conductivity, channel formation |
-| **Carboxylic** | –COOH | Buffering, secondary conduction |
-| **Sulfonimide** | –SO₂–NH–SO₂– | Delocalized charge, mobile ions |
-| **Amide / Amidic** | –CONH– | Hydrogen bonding, Grotthuss relay |
-
----
-
-### 🧬 Generalized Superionic Chain Model
-
-```
-[Bio-Scaffold]–[Phosphate]–[Sulfonic]–[Carboxyl]–[Sulfonimide]–[Amide]
-       ↑            ↑            ↑           ↑           ↑
-   Structure     Proton      Buffering    Mobility   H-bond relay
-```
-
-👉 PTK = **First concrete embodiment of this multi-acid paradigm**
 
 ---
 
@@ -98,139 +67,121 @@ The PTK system is a **specific instance of a broader universal design principle*
 | Nafion 117 | ~95% | 0.91 mmol/g | Synthetic fluorochemistry |
 | **PTK System** | **~20–25%** | **~9.09 mmol/g** | **Biological waste streams** |
 
-**~10× increase in conducting site density**
-
----
+**~10× more conducting sites per gram than Nafion.**
 
 ### 2. Phytic Acid Functional Efficiency
 
 ```
 Phytic Acid MW:         660 g/mol
-Active phosphate mass:  582 g/mol
-Dead weight:            78 g/mol
+Active phosphate mass:  582 g/mol  (6 × –OPO₃H₂)
+Dead weight (inositol): 78 g/mol
 
-Efficiency:             88.2%
-vs Nafion:              ~5%
+Functional efficiency:  88.2%
+Compare to Nafion:      ~5% functional mass
 ```
-
----
 
 ### 3. Ionic Conductivity Mechanisms
 
-- **Grotthuss proton hopping**
-- **Vehicular transport (triflate & multi-anions)**
-- **Dual / multi-anion cooperative conduction**
-- **Hydrophilic channel formation via phase separation**
-
-👉 Extended system enables:
-- Multi-path conduction  
-- Redundant proton networks  
-- Tunable ionic mobility  
-
-**Estimated conductivity:** 10⁻¹ to 10⁰ S/cm
-
----
+- **Grotthuss proton hopping** — via phosphate + keratin residue network
+- **Triflate mobile carrier** — CF₃SO₃⁻ as large, non-coordinating, freely mobile anion
+- **Dual-anion network** — phosphate + triflate cooperate for superior conductivity
+- **Nafion-like phase separation** — CF₃ hydrophobic domains create hydrophilic proton channels
+- **Estimated conductivity:** 10⁻¹ to 10⁰ S/cm (hydrated state)
 
 ### 4. Stability Mechanism (Critical Insight)
 
-#### PTK Stability
+Triflic acid alone would destroy keratin. Phytic acid prevents this by:
 
-| Mechanism | Effect |
-|---|---|
-| Proton buffering (phytic acid) | Prevents acid damage |
-| Crosslinking | Structural integrity |
-| Water retention | Sustains conductivity |
-| Thermal anchoring | Raises decomposition temp |
-
----
-
-#### Multi-Acid Stability Principle (NEW)
-
-| Acid Strength Tier | Role |
-|---|---|
-| Strong acids (triflic, sulfonic) | Proton density |
-| Medium acids (phosphonic) | Structure + buffering |
-| Weak acids (carboxylic) | Stability + flexibility |
-
-👉 **Layered acidity = stability without degradation**
-
----
+| Phytic Acid Action | Mechanism | Effect |
+|---|---|---|
+| Proton buffering | Absorbs up to 6H⁺ per molecule | Neutralizes superacid aggression locally |
+| Physical crosslinking | 6 phosphate arms bridge keratin chains | Prevents complete dissolution |
+| Water retention | Hygroscopic phosphate groups | Maintains hydration channels |
+| Thermal anchoring | Rigid inositol ring (~300°C stable) | Raises composite decomposition temperature |
 
 ### 5. Why Keratin Is NOT Dead Weight
 
-```
-–COOH → Proton donor  
-–NH₂  → Relay station  
-–SH   → Redox + relay  
-–OH   → Hydrogen bonding  
-–C=O  → Grotthuss sites  
-–S–S– → Additional pathways
-```
+Every functional group on keratin participates in conduction:
 
-👉 Entire structure = **active conduction network**
+```
+–COOH  (Glu, Asp)    → Proton donor
+–NH₂   (Lys)         → Proton relay station  
+–SH    (Cys)         → Proton relay + redox
+–OH    (Ser, Thr)    → H-bond network node
+–C=O   (peptide)     → Grotthuss hopping site
+–S–S–  (disulfide)   → Additional relay path
+```
 
 ---
 
 ## 🧪 Novelty Statement
 
-| Query | Result |
+A thorough literature search conducted on April 30, 2026 confirmed:
+
+| Search Query | Prior Art Found? |
 |---|---|
-| Phytic + Triflic + Keratin | ❌ None |
-| Keratin PEM superacid | ❌ None |
-| Multi-acid bio PEM system | ❌ None |
+| "Phytic acid + triflic acid + keratin" | ❌ None |
+| "Keratin superionic composite Nafion alternative" | ❌ None |
+| "Triflic acid keratin ionic conductor" | ❌ None |
+| "Phytic triflic keratin dead weight" | ❌ None |
+| "Keratin proton exchange membrane superacid" | ❌ None |
 
-Existing work:
-- Nafion + additives ❌  
-- Keratin reinforcement ❌  
-- Superacid models ❌  
+**What exists separately** (not the same as this concept):
+- Phytic acid doped into Nafion (Nafion remains the scaffold — not keratin)
+- Triflic acid theoretical fuel cell models (no biological protein scaffold)
+- Keratin composites for mechanical reinforcement (not ionic conduction)
 
-👉 **Combined + generalized framework = novel**
+**This three-component combination with the dead weight insight is novel.**
 
 ---
 
 ## 🌍 Public Domain Dedication
 
 ```
-Irrevocably dedicated to the public domain under CC0 1.0.
+The author hereby irrevocably dedicates this entire concept
+to the public domain under CC0 1.0 Universal.
 
-Anyone may:
-✅ Use
-✅ Modify
-✅ Commercialize
-✅ Research
+To the extent possible under law, Divyakant Swarnkar has waived 
+all copyright and related or neighboring rights to this work.
 
-No one may:
-❌ Patent this PTK system
-❌ Patent its dead-weight principle here
-❌ Restrict access
-❌ Claim origin
+Anyone worldwide may:
+✅ Use this concept freely
+✅ Conduct experiments based on it  
+✅ Publish findings based on it
+✅ Build commercial products based on it
+✅ Teach and share it freely
+
+No one may ever:
+❌ Patent this specific PTK combination
+❌ Patent the dead weight insight as applied here
+❌ Restrict other researchers from using this framework
+❌ Claim to be the originator of this concept
 ```
 
 ---
 
 ## 📜 Legal Status
 
-This is a **defensive prior art disclosure**:
+This repository constitutes a **defensive publication** — a legally recognized form of prior art that prevents future patent grants on this subject matter.
 
-- Public ✅  
-- Timestamped ✅  
-- Indexed ✅  
-- Archived ✅  
+By being:
+- Publicly accessible ✅
+- Permanently timestamped ✅  
+- Indexed by search engines ✅
+- Archived on multiple platforms ✅
 
-Applies under:
-- India (Patents Act 1970)  
-- USA (35 U.S.C. §102)  
-- Europe (EPC Art. 54)  
-- WIPO / PCT  
+...this disclosure meets the legal standard for prior art in all major patent jurisdictions including India (Patents Act 1970), USA (35 U.S.C. § 102), Europe (EPC Article 54), and PCT/WIPO.
 
 ---
 
 ## 🔗 Cross-Platform Archive Record
 
+This disclosure is simultaneously published at:
+
 | Platform | Link | Purpose |
 |---|---|---|
 | **Zenodo** | DOI: 10.5281/zenodo.19907279 | Academic DOI + CERN archive |
-| **Internet Archive** | https://archive.org/details/phytic-acid-triflic-acid-keratin-ptk | Permanent — never deletable |
+| **Internet Archive** | [archive.org/details/PTK-prior-art](https://archive.org/details/phytic-acid-triflic-acid-keratin-ptk) | Permanent — never deletable |
 | **OSF** | osf.io/XXXXX | Open Science Framework |
 | **GitHub** | This repository | Developer community record |
 
@@ -238,11 +189,12 @@ Applies under:
 
 ## 📖 How to Cite This Work
 
+If you build upon this concept, the author requests (but does not legally require) the following citation:
+
 ```
-Divyakant Swarnkar,
-"Phytic Acid–Triflic Acid–Keratin (PTK) Superionic Composite:
-Defensive Prior Art Disclosure for a Low Dead-Weight Nafion Alternative,"
-GitHub & Zenodo, April 30, 2026.
+[Divyakant Swarnkar], "Phytic Acid–Triflic Acid–Keratin (PTK) Superionic 
+Composite: Defensive Prior Art Disclosure for a Low Dead-Weight 
+Nafion Alternative," GitHub & Zenodo, April 30, 2026.
 DOI: 10.5281/zenodo.19907279
 ```
 
@@ -250,57 +202,21 @@ DOI: 10.5281/zenodo.19907279
 
 ## 📬 Contact
 
-**Divyakant Swarnkar**  
+**[Diyakant Swarnkar]**  
 Independent Researcher  
 Badlapur, Jaunpur, Uttar Pradesh, India  
+Email: [Divyakant Swarnkar]  
 
 ---
 
 ## 🤝 Collaboration Welcome
 
-If you are a researcher or institution interested in experimentally validating this concept, collaboration is welcome.
-
-Condition: **Science must remain open and accessible.**
-
----
-
-## 📘 Scientific Abstract (Integrated)
-
-This work proposes the PTK composite and extends it into a **generalized multi-acid superionic framework** combining phosphonic, sulfonic, carboxylic, sulfonimide, and amidic systems. The architecture maximizes proton density, minimizes dead weight, and enables cooperative ionic conduction. Theoretical analysis suggests an order-of-magnitude improvement over conventional PEMs with enhanced sustainability and cost efficiency.
-
----
-
-## 🚀 Applications
-
-- Hydrogen fuel cells  
-- Water electrolysers  
-- Supercapacitors  
-- Flexible and wearable electronics  
-- Biosensors and biomedical materials  
-
----
-
-## ⚠️ Limitations and Future Work
-
-- Requires experimental validation  
-- Mechanical durability unknown  
-- Fabrication methods need development  
-- Hydration–conductivity balance optimization required  
-
----
-
-## 🧾 Conclusion
-
-The PTK system is not just a material — it is a **design philosophy**:
-
-> Replace inert mass with functional chemistry.
-
-The extended multi-acid framework transforms PEM design into a **fully active ionic architecture**, potentially redefining efficiency limits in electrochemical systems.
+If you are a researcher or institution interested in experimentally validating this concept, the author welcomes collaboration. This concept is shared freely — the only request is that the science remains open and accessible to all.
 
 ---
 
 *"Science belongs to humanity. Ideas conceived freely should remain free."*  
-— Divyakant Swarnkar, April 30, 2026  
+*— [Divyakant Swarnkar], Badlapur, Jaunpur, Uttar Pradesh , April 30, 2026*
 
 ---
 
