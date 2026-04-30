@@ -216,7 +216,7 @@ If you are a researcher or institution interested in experimentally validating t
 ---
 
 *"Science belongs to humanity. Ideas conceived freely should remain free."*  
-*— [Your Name], Lucknow, April 30, 2026*
+*— [Divyakant Swarnkar], Badlapur, Jaunpur, Uttar Pradesh , April 30, 2026*
 
 ---
 
