@@ -125,15 +125,18 @@ This enables:
 * Mid-stage (phytic acid) → establish crosslinked ionic scaffold
 * Late-stage acids → enhance proton mobility and carrier density
 
-### Key Insight
+### 🔑 Key Insight
 
-The **order, gradient, and combination of acids** form a 
-**generalized protonation pathway**, not limited to any single acid system.
+The order, gradient, combination, or simultaneity of acid interactions 
+form a **generalized protonation framework**, not limited to any single 
+acid system or process pathway.
 
 Thus, the invention is not merely a material composition, but a:
 
-> **Process-capable architecture enabling progressive ionic activation 
-> of biomolecular scaffolds through multi-acid environments.**
+> **Process-capable architecture encompassing all functionally equivalent 
+> protonation mechanisms** enabling ionic activation of biomolecular 
+> scaffolds through multi-acid environments, irrespective of sequence, 
+> staging, gradient, or implementation method.
 
 ---
 
