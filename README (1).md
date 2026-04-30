@@ -192,7 +192,7 @@ This disclosure is simultaneously published at:
 If you build upon this concept, the author requests (but does not legally require) the following citation:
 
 ```
-[Your Full Name], "Phytic Acid–Triflic Acid–Keratin (PTK) Superionic 
+[Divyakant Swarnkar], "Phytic Acid–Triflic Acid–Keratin (PTK) Superionic 
 Composite: Defensive Prior Art Disclosure for a Low Dead-Weight 
 Nafion Alternative," GitHub & Zenodo, April 30, 2026.
 DOI: 10.5281/zenodo.XXXXXXX
