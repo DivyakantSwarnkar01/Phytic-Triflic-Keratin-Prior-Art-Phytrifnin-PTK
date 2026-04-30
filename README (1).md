@@ -25,7 +25,8 @@ This repository exists for **one reason:**
 
 > To permanently place the concept of the **Phytic Acid – Triflic Acid – Keratin (PTK) Superionic Composite** into the **public domain**, so that no individual, corporation, or institution can ever patent it, restrict it, or deny access to it.
 
-This is a **defensive publication.** The author makes no claim to commercial rights. The goal is to keep clean energy technology **free for all humanity.**
+This is a **defensive publication.** The author makes no claim to commercial rights.
+The goal is to keep clean energy technology **free for all humanity.**
 
 ---
 
@@ -41,9 +42,29 @@ A three-component superionic composite system comprising:
 
 ---
 
-## 🔁 Alternative Acid Framework (Interchangeability Extension)
+## 🔁 Alternative Acid Framework + Multi-Acid Chain (Interchangeability Extension)
 
-**Triflic acid is not mandatory.** It can be replaced or complemented by other proton-donating systems while preserving the PTK design philosophy:
+**Triflic acid is not mandatory.**
+It represents a **reference superacid module**, and can be replaced, complemented, or extended into a **multi-acid chain system** while preserving the PTK design philosophy.
+
+### 🔗 Multi-Acid Chain Concept
+
+Instead of a single acid source, the system can operate as:
+
+```
+[Keratin]–[Phytate]–[Acid₁]–[Acid₂]–[Acid₃]–[Keratin]
+```
+
+Where multiple acid functionalities form a **continuous proton-conducting chain**, enabling:
+
+* Higher proton density
+* Tunable conductivity
+* Layered buffering and stability
+* Distributed ionic pathways
+
+---
+
+### 🔄 Interchangeable Acid Systems
 
 * **Phosphonic Acid Systems (–PO(OH)₂)**
   Strong proton donors with stable hydrogen-bond networks
@@ -67,7 +88,17 @@ A three-component superionic composite system comprising:
 
 ---
 
-### The Core Innovation
+### ⚙️ Design Principle
+
+* **Triflic Acid = High proton density anchor**
+* **Alternative acids = Functional equivalents or complements**
+* **Multi-acid chain = Enhanced conduction + stability synergy**
+
+Thus, the PTK system is not a fixed chemistry, but a **generalized superionic architecture**.
+
+---
+
+## 🚀 The Core Innovation
 
 Conventional Nafion membranes (the global standard for fuel cells) suffer from **~95% dead weight** — their fluorocarbon backbone contributes nothing to ionic conduction.
 
@@ -82,7 +113,7 @@ PTK SYSTEM:
 [Keratin]–[Phytate]–[Triflate]–[Keratin]
     ↑           ↑          ↑        ↑
   Active     Active     Active   Active
-  ~75-80% of every atom contributes
+  ~75–80% of every atom contributes
 ```
 
 ---
@@ -98,6 +129,8 @@ PTK SYSTEM:
 
 **~10× more conducting sites per gram than Nafion.**
 
+---
+
 ### 2. Phytic Acid Functional Efficiency
 
 ```
@@ -109,13 +142,17 @@ Functional efficiency:  88.2%
 Compare to Nafion:      ~5% functional mass
 ```
 
+---
+
 ### 3. Ionic Conductivity Mechanisms
 
 * **Grotthuss proton hopping** — via phosphate + keratin residue network
-* **Triflate mobile carrier** — CF₃SO₃⁻ as large, non-coordinating, freely mobile anion
-* **Dual-anion network** — phosphate + triflate cooperate for superior conductivity
-* **Nafion-like phase separation** — CF₃ hydrophobic domains create hydrophilic proton channels
+* **Vehicular transport** — triflate or analogous mobile anions
+* **Dual-/Multi-anion network** — phosphate + triflate + additional acid systems
+* **Phase separation** — hydrophobic domains forming proton channels
 * **Estimated conductivity:** 10⁻¹ to 10⁰ S/cm (hydrated state)
+
+---
 
 ### 4. Stability Mechanism (Critical Insight)
 
@@ -127,6 +164,8 @@ Triflic acid alone would destroy keratin. Phytic acid prevents this by:
 | Physical crosslinking | 6 phosphate arms bridge keratin chains | Prevents complete dissolution              |
 | Water retention       | Hygroscopic phosphate groups           | Maintains hydration channels               |
 | Thermal anchoring     | Rigid inositol ring (~300°C stable)    | Raises composite decomposition temperature |
+
+---
 
 ### 5. Why Keratin Is NOT Dead Weight
 
@@ -155,13 +194,13 @@ A thorough literature search conducted on April 30, 2026 confirmed:
 | "Phytic triflic keratin dead weight"              | ❌ None           |
 | "Keratin proton exchange membrane superacid"      | ❌ None           |
 
-**What exists separately** (not the same as this concept):
+**What exists separately (not the same as this concept):**
 
 * Phytic acid doped into Nafion (Nafion remains the scaffold — not keratin)
 * Triflic acid theoretical fuel cell models (no biological protein scaffold)
 * Keratin composites for mechanical reinforcement (not ionic conduction)
 
-**This three-component combination with the dead weight insight is novel.**
+**This three-component combination + multi-acid chain + dead weight insight is novel.**
 
 ---
 
@@ -201,26 +240,22 @@ By being:
 * Indexed by search engines ✅
 * Archived on multiple platforms ✅
 
-...this disclosure meets the legal standard for prior art in all major patent jurisdictions including India (Patents Act 1970), USA (35 U.S.C. § 102), Europe (EPC Article 54), and PCT/WIPO.
+...this disclosure meets the legal standard for prior art in major patent jurisdictions.
 
 ---
 
 ## 🔗 Cross-Platform Archive Record
 
-This disclosure is simultaneously published at:
-
-| Platform             | Link                                                                                                  | Purpose                     |
-| -------------------- | ----------------------------------------------------------------------------------------------------- | --------------------------- |
-| **Zenodo**           | DOI: 10.5281/zenodo.19907279                                                                          | Academic DOI + CERN archive |
-| **Internet Archive** | [archive.org/details/PTK-prior-art](https://archive.org/details/phytic-acid-triflic-acid-keratin-ptk) | Permanent — never deletable |
-| **OSF**              | osf.io/XXXXX                                                                                          | Open Science Framework      |
-| **GitHub**           | This repository                                                                                       | Developer community record  |
+| Platform             | Link                                                             | Purpose                     |
+| -------------------- | ---------------------------------------------------------------- | --------------------------- |
+| **Zenodo**           | DOI: 10.5281/zenodo.19907279                                     | Academic DOI + CERN archive |
+| **Internet Archive** | https://archive.org/details/phytic-acid-triflic-acid-keratin-ptk | Permanent — never deletable |
+| **OSF**              | osf.io/XXXXX                                                     | Open Science Framework      |
+| **GitHub**           | This repository                                                  | Developer community record  |
 
 ---
 
 ## 📖 How to Cite This Work
-
-If you build upon this concept, the author requests (but does not legally require) the following citation:
 
 ```
 [Divyakant Swarnkar], "Phytic Acid–Triflic Acid–Keratin (PTK) Superionic 
@@ -233,7 +268,7 @@ DOI: 10.5281/zenodo.19907279
 
 ## 📬 Contact
 
-**[Diyakant Swarnkar]**
+**[Divyakant Swarnkar]**
 Independent Researcher
 Badlapur, Jaunpur, Uttar Pradesh, India
 Email: [Divyakant Swarnkar]
@@ -242,12 +277,13 @@ Email: [Divyakant Swarnkar]
 
 ## 🤝 Collaboration Welcome
 
-If you are a researcher or institution interested in experimentally validating this concept, the author welcomes collaboration. This concept is shared freely — the only request is that the science remains open and accessible to all.
+If you are a researcher or institution interested in experimentally validating this concept, collaboration is welcome.
+The only request: **keep the science open and accessible.**
 
 ---
 
 *"Science belongs to humanity. Ideas conceived freely should remain free."*
-*— [Divyakant Swarnkar], Badlapur, Jaunpur, Uttar Pradesh , April 30, 2026*
+*— [Divyakant Swarnkar], April 30, 2026*
 
 ---
 
