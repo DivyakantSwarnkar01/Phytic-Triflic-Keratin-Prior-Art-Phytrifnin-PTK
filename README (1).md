@@ -1,16 +1,17 @@
 # ⚡ Phytic Acid – Triflic Acid – Keratin (PTK) Superionic Composite
+
 ## Defensive Prior Art Disclosure | Public Domain Dedication
 
-> **"A theoretically conceived, atomically efficient bio-ionic conductor —  
+> **"A theoretically conceived, atomically efficient bio-ionic conductor —
 > dedicated freely to humanity to remain permanently unpatentable."**
 
 ---
 
-**Author:** [Divyakant Swarnkar]  
-**Location:** Badlapur, Jaunpur, Uttar Pradesh, India  
-**Date of Conception:** April 30, 2026  
-**Status:** Independent Researcher  
-**License:** CC0 1.0 Universal — No Rights Reserved  
+**Author:** [Divyakant Swarnkar]
+**Location:** Badlapur, Jaunpur, Uttar Pradesh, India
+**Date of Conception:** April 30, 2026
+**Status:** Independent Researcher
+**License:** CC0 1.0 Universal — No Rights Reserved
 
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![Prior Art](https://img.shields.io/badge/Status-Prior_Art_Established-green)](https://zenodo.org)
@@ -32,11 +33,39 @@ This is a **defensive publication.** The author makes no claim to commercial rig
 
 A three-component superionic composite system comprising:
 
-| Component | Chemical Identity | Role in System |
-|---|---|---|
-| **Phytic Acid** | Inositol hexaphosphate (IP6), C₆H₁₈O₂₄P₆ | Molecular crosslinker, proton buffer, water retention agent, thermal stabilizer |
-| **Triflic Acid** | Trifluoromethanesulfonic acid, CF₃SO₃H | Superacid proton source, triflate mobile carrier, hydrophobic channel former |
-| **Keratin** | Structural protein (hair/wool/feathers) | Multi-functional ionic scaffold — near-zero dead weight |
+| Component        | Chemical Identity                        | Role in System                                                                  |
+| ---------------- | ---------------------------------------- | ------------------------------------------------------------------------------- |
+| **Phytic Acid**  | Inositol hexaphosphate (IP6), C₆H₁₈O₂₄P₆ | Molecular crosslinker, proton buffer, water retention agent, thermal stabilizer |
+| **Triflic Acid** | Trifluoromethanesulfonic acid, CF₃SO₃H   | Superacid proton source, triflate mobile carrier, hydrophobic channel former    |
+| **Keratin**      | Structural protein (hair/wool/feathers)  | Multi-functional ionic scaffold — near-zero dead weight                         |
+
+---
+
+## 🔁 Alternative Acid Framework (Interchangeability Extension)
+
+**Triflic acid is not mandatory.** It can be replaced or complemented by other proton-donating systems while preserving the PTK design philosophy:
+
+* **Phosphonic Acid Systems (–PO(OH)₂)**
+  Strong proton donors with stable hydrogen-bond networks
+  Useful for structural crosslinking and thermal stability
+
+* **Sulfonic Acid Systems (–SO₃H)**
+  High intrinsic proton conductivity
+  Known for forming efficient hydrophilic conduction channels
+
+* **Carboxylic Acid Systems (–COOH)**
+  Weaker acids but abundant in biomaterials
+  Provide buffering and secondary conduction pathways
+
+* **Sulfonimide / Sulphimide Systems**
+  Highly delocalized charge structures
+  Enable strong acidity with mobile anionic species
+
+* **Amidic / Amide Systems (–CONH–)**
+  Support hydrogen-bond networks
+  Facilitate proton relay via Grotthuss-type mechanisms
+
+---
 
 ### The Core Innovation
 
@@ -62,9 +91,9 @@ PTK SYSTEM:
 
 ### 1. Dead Weight Comparison
 
-| Membrane | Dead Weight | Conducting Sites | Cost Source |
-|---|---|---|---|
-| Nafion 117 | ~95% | 0.91 mmol/g | Synthetic fluorochemistry |
+| Membrane       | Dead Weight | Conducting Sites | Cost Source                  |
+| -------------- | ----------- | ---------------- | ---------------------------- |
+| Nafion 117     | ~95%        | 0.91 mmol/g      | Synthetic fluorochemistry    |
 | **PTK System** | **~20–25%** | **~9.09 mmol/g** | **Biological waste streams** |
 
 **~10× more conducting sites per gram than Nafion.**
@@ -82,22 +111,22 @@ Compare to Nafion:      ~5% functional mass
 
 ### 3. Ionic Conductivity Mechanisms
 
-- **Grotthuss proton hopping** — via phosphate + keratin residue network
-- **Triflate mobile carrier** — CF₃SO₃⁻ as large, non-coordinating, freely mobile anion
-- **Dual-anion network** — phosphate + triflate cooperate for superior conductivity
-- **Nafion-like phase separation** — CF₃ hydrophobic domains create hydrophilic proton channels
-- **Estimated conductivity:** 10⁻¹ to 10⁰ S/cm (hydrated state)
+* **Grotthuss proton hopping** — via phosphate + keratin residue network
+* **Triflate mobile carrier** — CF₃SO₃⁻ as large, non-coordinating, freely mobile anion
+* **Dual-anion network** — phosphate + triflate cooperate for superior conductivity
+* **Nafion-like phase separation** — CF₃ hydrophobic domains create hydrophilic proton channels
+* **Estimated conductivity:** 10⁻¹ to 10⁰ S/cm (hydrated state)
 
 ### 4. Stability Mechanism (Critical Insight)
 
 Triflic acid alone would destroy keratin. Phytic acid prevents this by:
 
-| Phytic Acid Action | Mechanism | Effect |
-|---|---|---|
-| Proton buffering | Absorbs up to 6H⁺ per molecule | Neutralizes superacid aggression locally |
-| Physical crosslinking | 6 phosphate arms bridge keratin chains | Prevents complete dissolution |
-| Water retention | Hygroscopic phosphate groups | Maintains hydration channels |
-| Thermal anchoring | Rigid inositol ring (~300°C stable) | Raises composite decomposition temperature |
+| Phytic Acid Action    | Mechanism                              | Effect                                     |
+| --------------------- | -------------------------------------- | ------------------------------------------ |
+| Proton buffering      | Absorbs up to 6H⁺ per molecule         | Neutralizes superacid aggression locally   |
+| Physical crosslinking | 6 phosphate arms bridge keratin chains | Prevents complete dissolution              |
+| Water retention       | Hygroscopic phosphate groups           | Maintains hydration channels               |
+| Thermal anchoring     | Rigid inositol ring (~300°C stable)    | Raises composite decomposition temperature |
 
 ### 5. Why Keratin Is NOT Dead Weight
 
@@ -118,18 +147,19 @@ Every functional group on keratin participates in conduction:
 
 A thorough literature search conducted on April 30, 2026 confirmed:
 
-| Search Query | Prior Art Found? |
-|---|---|
-| "Phytic acid + triflic acid + keratin" | ❌ None |
-| "Keratin superionic composite Nafion alternative" | ❌ None |
-| "Triflic acid keratin ionic conductor" | ❌ None |
-| "Phytic triflic keratin dead weight" | ❌ None |
-| "Keratin proton exchange membrane superacid" | ❌ None |
+| Search Query                                      | Prior Art Found? |
+| ------------------------------------------------- | ---------------- |
+| "Phytic acid + triflic acid + keratin"            | ❌ None           |
+| "Keratin superionic composite Nafion alternative" | ❌ None           |
+| "Triflic acid keratin ionic conductor"            | ❌ None           |
+| "Phytic triflic keratin dead weight"              | ❌ None           |
+| "Keratin proton exchange membrane superacid"      | ❌ None           |
 
 **What exists separately** (not the same as this concept):
-- Phytic acid doped into Nafion (Nafion remains the scaffold — not keratin)
-- Triflic acid theoretical fuel cell models (no biological protein scaffold)
-- Keratin composites for mechanical reinforcement (not ionic conduction)
+
+* Phytic acid doped into Nafion (Nafion remains the scaffold — not keratin)
+* Triflic acid theoretical fuel cell models (no biological protein scaffold)
+* Keratin composites for mechanical reinforcement (not ionic conduction)
 
 **This three-component combination with the dead weight insight is novel.**
 
@@ -165,10 +195,11 @@ No one may ever:
 This repository constitutes a **defensive publication** — a legally recognized form of prior art that prevents future patent grants on this subject matter.
 
 By being:
-- Publicly accessible ✅
-- Permanently timestamped ✅  
-- Indexed by search engines ✅
-- Archived on multiple platforms ✅
+
+* Publicly accessible ✅
+* Permanently timestamped ✅
+* Indexed by search engines ✅
+* Archived on multiple platforms ✅
 
 ...this disclosure meets the legal standard for prior art in all major patent jurisdictions including India (Patents Act 1970), USA (35 U.S.C. § 102), Europe (EPC Article 54), and PCT/WIPO.
 
@@ -178,12 +209,12 @@ By being:
 
 This disclosure is simultaneously published at:
 
-| Platform | Link | Purpose |
-|---|---|---|
-| **Zenodo** | DOI: 10.5281/zenodo.19907279 | Academic DOI + CERN archive |
+| Platform             | Link                                                                                                  | Purpose                     |
+| -------------------- | ----------------------------------------------------------------------------------------------------- | --------------------------- |
+| **Zenodo**           | DOI: 10.5281/zenodo.19907279                                                                          | Academic DOI + CERN archive |
 | **Internet Archive** | [archive.org/details/PTK-prior-art](https://archive.org/details/phytic-acid-triflic-acid-keratin-ptk) | Permanent — never deletable |
-| **OSF** | osf.io/XXXXX | Open Science Framework |
-| **GitHub** | This repository | Developer community record |
+| **OSF**              | osf.io/XXXXX                                                                                          | Open Science Framework      |
+| **GitHub**           | This repository                                                                                       | Developer community record  |
 
 ---
 
@@ -202,10 +233,10 @@ DOI: 10.5281/zenodo.19907279
 
 ## 📬 Contact
 
-**[Diyakant Swarnkar]**  
-Independent Researcher  
-Badlapur, Jaunpur, Uttar Pradesh, India  
-Email: [Divyakant Swarnkar]  
+**[Diyakant Swarnkar]**
+Independent Researcher
+Badlapur, Jaunpur, Uttar Pradesh, India
+Email: [Divyakant Swarnkar]
 
 ---
 
@@ -215,7 +246,7 @@ If you are a researcher or institution interested in experimentally validating t
 
 ---
 
-*"Science belongs to humanity. Ideas conceived freely should remain free."*  
+*"Science belongs to humanity. Ideas conceived freely should remain free."*
 *— [Divyakant Swarnkar], Badlapur, Jaunpur, Uttar Pradesh , April 30, 2026*
 
 ---
