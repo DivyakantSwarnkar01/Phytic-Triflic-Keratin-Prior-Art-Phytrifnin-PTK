@@ -181,7 +181,7 @@ This disclosure is simultaneously published at:
 | Platform | Link | Purpose |
 |---|---|---|
 | **Zenodo** | DOI: 10.5281/zenodo.XXXXXXX | Academic DOI + CERN archive |
-| **Internet Archive** | archive.org/details/PTK-prior-art | Permanent — never deletable |
+| **Internet Archive** | [archive.org/details/PTK-prior-art](https://archive.org/details/phytic-acid-triflic-acid-keratin-ptk) | Permanent — never deletable |
 | **OSF** | osf.io/XXXXX | Open Science Framework |
 | **GitHub** | This repository | Developer community record |
 
